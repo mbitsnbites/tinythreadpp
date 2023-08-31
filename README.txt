@@ -1,3 +1,5 @@
+⚠️ This repository has moved to: https://gitlab.com/mbitsnbites/tinythreadpp
+
 TinyThread++ v1.2
 =================
 
